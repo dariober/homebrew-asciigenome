@@ -1,8 +1,8 @@
 class Asciigenome < Formula
   desc "Text Only Genome Viewer!"
   homepage "https://github.com/dariober/ASCIIGenome"
-  url "https://github.com/dariober/ASCIIGenome/releases/download/v1.21.1/ASCIIGenome-1.12.1.zip"
-  sha256 "06e4add5078933111fff155e527743e3d20049a280c43e865cded8a07bc601d6" 
+  url "https://github.com/dariober/ASCIIGenome/releases/download/v1.21.1/ASCIIGenome-1.21.1.zip"
+  sha256 "aab15d249b1bb4f46a8faf8c29f14534b4b437e2ba2729e5c3767aa219bec8cd" 
 
   depends_on "openjdk@21"
 
